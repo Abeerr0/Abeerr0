@@ -11,8 +11,8 @@
 ### 👩‍💻 About Me
 ### 🎓 Education & Professional Training
 * **Princess Nourah University** | Bachelor of Computer Science and Programming
-* **Holberton School** | Software Engineering Foundations (Specializing in C and System Engineering)
-* **Apple Developer Academy** | iOS Application Development & Design Innovation
+* **Holberton Academy** | Software Engineering Foundations
+* **Apple Developer Academy** | iOS Application Development
 - 💼 **Experience:** Former Full Stack Developer Trainee at **Imam Abdulrahman Al-Faisal Hospital**, where I engineered a "Smart Hospital Device Management System" tracking over 500 medical assets.
 - ⚙️ **Focus:** Bridging the gap between complex backend logic and intuitive user interfaces using **.NET (C#)** and the **MERN stack**.
 - 💡 **Interests:** Automating workflows, integrating AI models into practical applications, and building scalable and secure systems.

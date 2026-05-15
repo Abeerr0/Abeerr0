@@ -53,10 +53,8 @@
 * 💰 **Future Wallet:** Created a predictive personal finance tracker utilizing a Python Linear Regression model (Scikit-learn) to forecast future spending trends with high accuracy based on historical data.
 
 ---
-
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abeerr0&show_icons=true&theme=radical" alt="Abeer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeerr0&layout=compact&theme=radical" alt="Abeer's Top Languages" />
-</div>
+[![Abeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abeerr0&show_icons=true&theme=radical)](https://github.com/Abeerr0)
+
+[![Abeer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abeerr0&layout=compact&theme=radical)](https://github.com/Abeerr0)
